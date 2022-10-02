@@ -1,0 +1,25 @@
+body
+{
+	background: lightblue;
+    font-family:cursive;
+    font-style: italic;
+}
+
+#div1{
+	background: black;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+    width: 650px;
+    height: 300x;
+}
+#input1{
+    width: 600px;
+    height: 50px;
+}
+button:hover{
+    color:brown;
+}
+h2{
+    color: chartreuse;
+}
